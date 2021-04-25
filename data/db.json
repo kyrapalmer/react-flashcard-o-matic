@@ -1,0 +1,100 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Rdeal DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "dd",
+      "back": "dd",
+      "deckId": null,
+      "id": 8
+    },
+    {
+      "front": "TEST",
+      "back": "TEST",
+      "deckId": null,
+      "id": 9
+    },
+    {
+      "front": "TEST",
+      "back": "TESTI a changed card",
+      "deckId": 1,
+      "id": 10
+    },
+    {
+      "front": "sdfs",
+      "back": "a test",
+      "deckId": 1,
+      "id": 12
+    },
+    {
+      "front": "dsdfddd",
+      "back": "TST",
+      "deckId": 1,
+      "id": 13
+    },
+    {
+      "front": "TST",
+      "back": "TESTing",
+      "id": 14
+    },
+    {
+      "front": "ffff",
+      "back": "hey",
+      "deckId": 1,
+      "id": 15
+    },
+    {
+      "front": "nnn",
+      "back": "kendsln",
+      "deckId": 1,
+      "id": 16
+    }
+  ]
+}

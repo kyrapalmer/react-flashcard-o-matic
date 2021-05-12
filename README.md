@@ -4,5 +4,5 @@ Flashcard-o-matic is a React web app for students and learners alike, that allow
 ## Tech
 
 ### Built with:
-- React, inculding Router
+- React, including Router
 
